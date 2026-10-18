@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+backend/venv/
+venv/
+.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Large model and dataset files
+*.pkl
+*.csv
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
